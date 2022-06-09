@@ -1,0 +1,35 @@
+.Home{
+    background-color: rgba(255, 248, 220, 0.76);
+    padding: 70px;
+    width: 100%;
+    margin: 120px;
+}
+.button {
+    background-color: #ff000083; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.button:hover {
+    background-color: #ff0000d3; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color:  #e6961e1f;
+    color: rgba(122, 18, 18, 0.822);
+  }

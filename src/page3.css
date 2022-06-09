@@ -1,0 +1,37 @@
+.page3{
+    background-color: rgba(250, 208, 161, 0.705);
+    width: 100%;
+    padding: 70px;
+    margin: 120px;
+}
+
+.input3{
+    background-color: #faefef;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    color: rgb(110, 107, 107);
+    width: 100%;
+  }
+
+.button03 {
+    background-color: #1f0c0c83; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .button03:hover {
+    background-color: #000000bb; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }

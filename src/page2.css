@@ -1,0 +1,37 @@
+.page02{
+    background-color: rgba(247, 204, 169, 0.705);
+    width: 100%;
+    padding: 70px;
+    margin: 120px;
+}
+
+.input02{
+    background-color: #f8edcf;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    color: rgb(110, 107, 107);
+    width: 100%;
+  }
+
+.button02 {
+    background-color: #ec9f47c7; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.button02:hover {
+    background-color: #e4931a; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
